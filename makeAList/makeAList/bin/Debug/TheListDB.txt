@@ -1,0 +1,6 @@
+Groceries,
+banana,10
+Pair,5
+Canadian Tire,
+a;lsdjf,0
+lsakdjf;lsaj,
